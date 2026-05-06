@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ya-ghayeb/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Ya Ghayeb](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
